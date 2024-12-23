@@ -6,7 +6,6 @@
 
 using namespace std;
 using namespace pqxx;
-
 // Класс Product
 class Product {
 public:
